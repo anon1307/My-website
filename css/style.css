@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+hr{
+  width: 10%;
+  border-style: none none dotted;
+  border-width: 8px;
+  margin: 30px auto 30px auto;
+}
+
+div{
+  margin: 0;
+}
+
+h1{
+  font-family: 'Quintessential', cursive;
+  font-size: 3.5rem;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+h3{
+  text-decoration: underline;
+}
+.firtsBox{
+  background-color: #293462;
+}
+
+.secondBox{
+  background-color: #F24C4C;
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.thirdBox{
+  background-color: #EC9B3B;
+  padding-bottom: 20px;
+}
+
+.dcloud2{
+  position: absolute;
+  top: 5%;
+  left: 10%;
+  height: 300px;
+  width: auto;
+}
+
+.dcloud{
+  height: 250px;
+  width: auto;
+  position: relative;
+  left: 500px;
+}
+
+.bootstrap{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.letscode{
+  width: 30%;
+  float: left;
+}
+
+.htmlimg{
+  width: 30%;
+  float: right;
+}
+
+.CurrentObj{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.Done{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 1.5;
+}
+
+.learned{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.p1{
+  clear: left;
+}
+
+.p2{
+  clear: right;
+}
+
+.p3{
+  clear: left;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: black;
+  font-weight: 700;
+  margin: 10px;
+  font-family: 'Nanum Pen Script', cursive;
+}
+
+.footer-link:hover{
+  color: white;
+}
